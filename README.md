@@ -1,0 +1,2 @@
+# MyRep-JavaS
+Pierwsze repozytorium
